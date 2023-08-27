@@ -1,0 +1,358 @@
+[
+ {
+   "Years": 1,
+   "LumpSumEquiv": 50.9
+ },
+ {
+   "Years": 2,
+   "LumpSumEquiv": 99.4
+ },
+ {
+   "Years": 3,
+   "LumpSumEquiv": 145.6
+ },
+ {
+   "Years": 4,
+   "LumpSumEquiv": 189.6
+ },
+ {
+   "Years": 5,
+   "LumpSumEquiv": 231.5
+ },
+ {
+   "Years": 6,
+   "LumpSumEquiv": 271.4
+ },
+ {
+   "Years": 7,
+   "LumpSumEquiv": 309.4
+ },
+ {
+   "Years": 8,
+   "LumpSumEquiv": 345.6
+ },
+ {
+   "Years": 9,
+   "LumpSumEquiv": 380.1
+ },
+ {
+   "Years": 10,
+   "LumpSumEquiv": 412.9
+ },
+ {
+   "Years": 11,
+   "LumpSumEquiv": 444.1
+ },
+ {
+   "Years": 12,
+   "LumpSumEquiv": 473.9
+ },
+ {
+   "Years": 13,
+   "LumpSumEquiv": 502.3
+ },
+ {
+   "Years": 14,
+   "LumpSumEquiv": 529.3
+ },
+ {
+   "Years": 15,
+   "LumpSumEquiv": 555
+ },
+ {
+   "Years": 16,
+   "LumpSumEquiv": 579.5
+ },
+ {
+   "Years": 17,
+   "LumpSumEquiv": 602.8
+ },
+ {
+   "Years": 18,
+   "LumpSumEquiv": 625
+ },
+ {
+   "Years": 19,
+   "LumpSumEquiv": 646.2
+ },
+ {
+   "Years": 20,
+   "LumpSumEquiv": 666.4
+ },
+ {
+   "Years": 21,
+   "LumpSumEquiv": 685.8
+ },
+ {
+   "Years": 22,
+   "LumpSumEquiv": 703.8
+ },
+ {
+   "Years": 23,
+   "LumpSumEquiv": 721.2
+ },
+ {
+   "Years": 24,
+   "LumpSumEquiv": 737.8
+ },
+ {
+   "Years": 25,
+   "LumpSumEquiv": 753.6
+ },
+ {
+   "Years": 26,
+   "LumpSumEquiv": 768.7
+ },
+ {
+   "Years": 27,
+   "LumpSumEquiv": 783
+ },
+ {
+   "Years": 28,
+   "LumpSumEquiv": 796.6
+ },
+ {
+   "Years": 29,
+   "LumpSumEquiv": 809.6
+ },
+ {
+   "Years": 30,
+   "LumpSumEquiv": 822
+ },
+ {
+   "Years": 31,
+   "LumpSumEquiv": 833.8
+ },
+ {
+   "Years": 32,
+   "LumpSumEquiv": 845
+ },
+ {
+   "Years": 33,
+   "LumpSumEquiv": 855.7
+ },
+ {
+   "Years": 34,
+   "LumpSumEquiv": 865.9
+ },
+ {
+   "Years": 35,
+   "LumpSumEquiv": 875.6
+ },
+ {
+   "Years": 36,
+   "LumpSumEquiv": 884.8
+ },
+ {
+   "Years": 37,
+   "LumpSumEquiv": 893.6
+ },
+ {
+   "Years": 38,
+   "LumpSumEquiv": 902
+ },
+ {
+   "Years": 39,
+   "LumpSumEquiv": 909.9
+ },
+ {
+   "Years": 40,
+   "LumpSumEquiv": 917.5
+ },
+ {
+   "Years": 41,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 42,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 43,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 44,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 45,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 46,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 47,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 48,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 49,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 50,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 51,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 52,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 53,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 54,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 55,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 56,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 57,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 58,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 59,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 60,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 61,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 62,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 63,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 64,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 65,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 66,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 67,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 68,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 69,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 70,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 71,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 72,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 73,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 74,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 75,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 76,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 77,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 78,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 79,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 80,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 81,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 82,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 83,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 84,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 85,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 86,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 87,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 88,
+   "LumpSumEquiv": null
+ },
+ {
+   "Years": 89,
+   "LumpSumEquiv": null
+ }
+]
